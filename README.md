@@ -22,7 +22,7 @@ npm install
 npm run server
 ```
 
-4.- Start the React app:
+4. Start the React app:
 
 ```bash
 npm start
